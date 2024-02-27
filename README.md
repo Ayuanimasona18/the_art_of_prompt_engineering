@@ -6,7 +6,7 @@ Course completion of Build a Chatbot to Analyze PDF Document Using LLM from Cogn
 ---
 
 Nama     : Ayu Animasona
-Program  : IBM Academy AI 
+Program  : IBM Academy AI
 
 ## Tech Stack : 
 -Python
