@@ -9,13 +9,6 @@ Course completion of Build a Chatbot to Analyze PDF Document Using LLM from Cogn
 ### 💐💫Program  : IBM Academy AI
 
 ## Tech Stack : 
+ 🔖Python 🔖HTML🔖CSS🔖JavaScript🔖Flask🔖
+   
 
-   ###-Python
-   
-   ###-HTML
-   
-   ###-CSS
-   
-   ###-JavaScript
-   
-   ###-Flask
